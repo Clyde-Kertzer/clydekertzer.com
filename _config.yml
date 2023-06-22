@@ -84,8 +84,8 @@ author:
   avatar                : "ClydeProfile.jpg.JPG"
   bio                   : "Undergraduate Mathematics at CU Boulder"
   location              : "Boulder, CO"
-  email                 : "clke5351@colorado.edu"
-  github                : "https://github.com/Clyde-Kertzer"
+  email                 : 
+  github                : 
   
 # Reading Files
 include:
