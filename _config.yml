@@ -86,8 +86,7 @@ author:
   location              : "Boulder, CO"
   email                 : "clke5351@colorado.edu"
   github                : "https://github.com/Clyde-Kertzer"
-  mathse                : "https://math.stackexchange.com/users/1026367/clyde-kertzer"  
-
+  
 # Reading Files
 include:
   - .htaccess
