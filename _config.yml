@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clyde Kertzer / Clyde's Website"
+title                    : "Clyde Kertzer"
 title_separator          : "-"
 name                     : &name "Clyde Kertzer"
-description              : &description "Aspiring Number Theorist"
+description              : &description "clyde kertzer website"
 url                      : https://Clyde-Kertzer.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Clyde-Kertzer/Clyde-Kertzer.github.io"
