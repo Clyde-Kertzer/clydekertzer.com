@@ -82,11 +82,11 @@ analytics:
 author:
   name                  : "Clyde Kertzer"
   avatar                : "ClydeProfile.jpg.JPG"
-  bio                   : "Undergrauate Mathematics at CU Boulder"
+  bio                   : "Undergraduate Mathematics at CU Boulder"
   location              : "Boulder, CO"
-  clke5351@colorado.edu : "clke5351@colorado.edu"
+  email                 : "clke5351@colorado.edu"
   github                : "https://github.com/Clyde-Kertzer"
-  math SE               : "https://math.stackexchange.com/users/1026367/clyde-kertzer"  
+  mathse                : "https://math.stackexchange.com/users/1026367/clyde-kertzer"  
 
 # Reading Files
 include:
