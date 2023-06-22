@@ -7,10 +7,10 @@ l# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logan Hyslop"
-title_separator          : "|"
-name                     : &name "Logan Hyslop"
-description              : &description "Hello there.  My name is Logan Hyslop,  I am currently a second year undergraduate at UCLA, and this is my webpage.  I am broadly interested in math, more specifically in different flavors of abstract nonsense."
+title                    : "TESTTEST"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://Clyde-Kertzer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Clyde-Kertzer/Clyde-Kertzer.github.io"
