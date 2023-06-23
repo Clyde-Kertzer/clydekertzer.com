@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+# Education
 ======
 * B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
 
-##Work experience
+## Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
