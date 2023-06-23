@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-======
+## Education
 * B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
 
-## Work experience
+## Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Research Assistant & Developer, Numberscope
+  * Programmed visualizers on Numberscope to explore integer sequences through computer illustration and experimentation
+  * Developed the Numberscope https://numberscope.colorado.edu/ website to provide user experience on the tool and • to help improve it
+Coded my own visualizer that represents the Collatz length of the values of a user-selected sequence from
+the OEIS using a scaled color gradient and a modular-controlled array.
+  * Supervisor: Professor Stange
 
 * Fall 2015: Research Assistant
   * Github University
