@@ -25,11 +25,27 @@ redirect_from:
 
 ## Courses
 * Fall 2023 (Upcoming)
-  *Combinatorics
+  * Combinatorics
 
+* Spring 2023
+  * MATH 4890 - Honors Independent Study (Reading Course with
+  * MATH 3210 - Euclidean & Non-Euclidean Geometry
+  * MATH 4140 - Abstract Algebra 2 
 
-#### Completed Coursework towards B.S. in Math at Baylor University
-* MTH 2V90 - Independent Study (Number theory reading course with <a href="https://www.baylor.edu/math/index.php?id=54007">Paul Hagelstein</a>) 
-* MTH 2311 - Linear Algebra
-• MTH 3300 - Foundations of Mathematics 
-* MTH 3325 - Ordinary Differential Equations
+* Fall 2022
+  * MATH 4001 - Analysis 2
+  * MATH 6110 - Graduate Intro to Number Theory
+
+* Summer 2022
+  * MATH 3140 - Abstract Algebra 1
+ 
+* Spring 2022: I transferred from Baylor to CU Boulder
+  * MATH 3001 - Analysis 1
+  * MATH 3110 - Intro to Number Theory
+  * MATH 3450 - Intro to Complex Variables 
+
+* Fall 2021: at Baylor University
+  * MTH 2V90 - Independent Study (Reading course with <a href="https://www.baylor.edu/math/index.php?id=54007">Paul Hagelstein</a> over _The Theory of Numbers_, Niven, Zuckerman, Montgomery) 
+  * MTH 2311 - Linear Algebra
+  • MTH 3300 - Foundations of Mathematics 
+  * MTH 3325 - Ordinary Differential Equations
