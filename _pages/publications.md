@@ -7,5 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Education
-* B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
+### The Local-Global Conjecture for Apollonian circle packings is false
+* With Kate Stange, James Rickards, and Summer Haag.
+* Arxiv
