@@ -9,4 +9,4 @@ author_profile: true
 
 ### The Local-Global Conjecture for Apollonian circle packings is false
 * With Kate Stange, James Rickards, and Summer Haag.
-* Arxiv
+* <a href="https://arxiv.org/abs/2307.02749">arxiv</a> | <a href="https://github.com/JamesRickards-Canada/Apollonian">github code</a> | <a href="https://github.com/JamesRickards-Canada/Apollonian-Missing-Curvatures">github data</a>
