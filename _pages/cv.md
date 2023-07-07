@@ -13,14 +13,14 @@ redirect_from:
 * B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
 
 ## Research Experience
-* Fall 2022: Research Assistant & Developer, Numberscope
+* May 2023 - Present: Apollonian Circle Packings REU
+  * Supervisor: Professor Stange and Dr. Rickards
+
+* Aug - Dec 2022: Research Assistant & Developer, Numberscope
   * Programmed a <a href="https://numberscope.colorado.edu">Numberscope</a> visualizer that represents the Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
   * Developed the Numberscope website to provide and improve user experience.
   * Supervisor: Professor Stange
-
-* Summer 2023: Apollonian Circle Packings REU
-  * Supervisor: Professor Stange and Dr. Rickards
-
+  
 ## Courses
 * Fall 2023 (Upcoming)
   * Math 3170 - Combinatorics 1
@@ -50,3 +50,6 @@ redirect_from:
   * MTH 2311 - Linear Algebra
   * MTH 3300 - Foundations of Mathematics 
   * MTH 3325 - Ordinary Differential Equations
+
+## High School
+ * Graduated with International Baccalaureate diploma
