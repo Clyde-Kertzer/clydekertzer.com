@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 * B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
+* Graduated from Fairview High School with International Baccalaureate Diploma
 
 ## Research Experience
 * May 2023 - Present: Apollonian Circle Packings REU
@@ -50,6 +51,3 @@ redirect_from:
   * MTH 2311 - Linear Algebra
   * MTH 3300 - Foundations of Mathematics 
   * MTH 3325 - Ordinary Differential Equations
-
-## High School
- * Graduated with International Baccalaureate diploma
