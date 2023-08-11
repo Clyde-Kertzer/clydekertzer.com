@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Clyde Kertzer"
-excerpt: ""
+title: ""
+excerpt: "Clyde Kertzer"
 author_profile: true
 redirect_from: 
   - /about/
