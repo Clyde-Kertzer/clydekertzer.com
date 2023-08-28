@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in Mathematics, University of Colorado Boulder, 2025 (Expected)
+* B.S. in Mathematics, University of Colorado Boulder, spring 2024 (Expected)
 * Graduated from Fairview High School with International Baccalaureate Diploma
 
 ## Research Experience
@@ -23,8 +23,7 @@ redirect_from:
   * Supervisor: Professor Stange
   
 ## Courses
-* Fall 2023 (Upcoming)
-  * Math 3170 - Combinatorics 1
+* Fall 2023
   * Math 3330 - Mathematics of Coding and Cryptography
   * Math 6130 - Graduate Algebra 1
   * Math 6190 - Graduate Analytic Number Theory
