@@ -17,4 +17,4 @@ I am currently researching <a href="https://en.wikipedia.org/wiki/Apollonian_gas
 
 ## Other Interests
 
-When I'm not doing math, I'm probably playing soccer or hockey, watching the USA soccer team, or playing the trombone!
+When I'm not doing math, I'm probably playing soccer or hockey, watching the USMNT, or playing the trombone!
