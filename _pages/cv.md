@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in Mathematics, University of Colorado Boulder, spring 2024 (Expected)
+* B.S. in Mathematics (Honors), University of Colorado Boulder, spring 2024 (Expected)
 * Graduated from Fairview High School with International Baccalaureate Diploma
 
 ## Research Experience
