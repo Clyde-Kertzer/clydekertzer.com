@@ -24,7 +24,7 @@ redirect_from:
   
 ## Courses
 * Fall 2023
-  * Math 3330 - Mathematics of Coding and Cryptography
+  * Math 4440 - Mathematics of Coding and Cryptography
   * Math 6130 - Graduate Algebra 1
   * Math 6190 - Graduate Analytic Number Theory
 
