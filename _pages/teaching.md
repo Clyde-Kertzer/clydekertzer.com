@@ -1,6 +1,6 @@
 ---
 permalink: /teaching
-title: "Teaching
+title: "Teaching"
 excerpt: "Hello! My name is Clyde Kertzer and I am a 3rd-year undergraduate studying math at University of Colorado Boulder."
 author_profile: true
 ---
