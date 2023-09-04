@@ -9,7 +9,7 @@ author_profile: true
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
 
 ## Baylor
-  * Fall 2021 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
+  * MAde pren 1<br/><img src='/files/Pres'>
 
 ## High School
   * Aug 2019 - May 2021: I taught weekly lessons in the Number Theory Club that I started at Fairview High School. Somehow <a href="https://fah.bvsd.org/clubs-activities/number-theory-club">this link</a> is still active!
