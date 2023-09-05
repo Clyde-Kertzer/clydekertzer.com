@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## CU Boulder
-  * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during the REU at CU Boulder.
+  * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
 
 ## Baylor
