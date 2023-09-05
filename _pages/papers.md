@@ -12,5 +12,5 @@ author_profile: true
  * <a href="https://github.com/JamesRickards-Canada/Apollonian">github code</a>, <a href="https://github.com/JamesRickards-Canada/Apollonian-Missing-Curvatures">github data</a>
 
 ## High School
- * May 2021: [An Introductory Exploration of Diophantine Equations](/files/IntroductoryDiphantineEquations.pdf). This paper served as my IB Math HL Internal Assessment.
+ * May 2021: [An Introductory Exploration of Diophantine Equations](/files/IntroductoryExplorationDiphantineEquations.pdf). This paper served as my IB Math HL Internal Assessment.
  * October 2020: [Buffon's Needle](/files/Buffon'sNeedleGoogleDoc.pdf). This was my first ever math paper, and yes, I wrote it in google docs.
