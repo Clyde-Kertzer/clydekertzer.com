@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## CU Boulder
+  * Fall 2023: Grader for MATH 2130 (Professor David Grant), MATH 3001 (Dr. James Rickards), and MATH 2001 (Dr. Nat Thiem).
   * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
+  * Spring 2023: Grader for MATH 2001 (Professor David Grant).
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
 
 ## Baylor
