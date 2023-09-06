@@ -8,7 +8,9 @@ redirect_from:
 
 ## CU Boulder
   * September 1: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
-  * Fall 2023: Grader for MATH 2130 (Linear Algebra for Non-Math Majors), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>, MATH 3001 (Analysis 1), Dr. <a href="https://math.colorado.edu/~jari2770/">James Rickards</a>, and MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/nathaniel-thiem">Nat Thiem</a>.
+  * Fall 2023: Grader for MATH 2130 (Linear Algebra for Non-Math Majors), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>.
+  * Fall 2023: Grader for MATH 3001 (Analysis 1), Dr. <a href="https://math.colorado.edu/~jari2770/">James Rickards</a>.
+  * Fall 2023: Grader for MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/nathaniel-thiem">Nat Thiem</a>.
   * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
   * Spring 2023: Grader for MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>.
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
