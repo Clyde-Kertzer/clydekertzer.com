@@ -1,8 +1,9 @@
 ---
+layout: archive
+title: ""
 permalink: /teaching&talks/
-title: "Teaching & Talks"
-excerpt: ""
 author_profile: true
+redirect_from:
 ---
 
 ## CU Boulder
