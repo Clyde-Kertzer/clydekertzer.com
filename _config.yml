@@ -11,7 +11,7 @@ title                    : "Clyde Kertzer"
 title_separator          : "-"
 name                     : &name "Clyde Kertzer"
 description              : &description "Clyde Kertzer Website"
-url                      : https://Clyde-Kertzer.github.io # the base hostname & protocol for your site 
+url                      : https://clydekertzer.com # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Clyde-Kertzer/Clyde-Kertzer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
