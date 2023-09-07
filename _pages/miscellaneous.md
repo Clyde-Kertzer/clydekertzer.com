@@ -5,6 +5,8 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Some of my Favorite Books
  * _Rational Points on Elliptic Curves_, (Silverman & Tate)
  * _The Arithemetic of Elliptic Curves_, (Silverman)
