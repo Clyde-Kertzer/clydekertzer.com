@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Clyde Kertzer"
-excerpt: "Hello! My name is Clyde Kertzer and I am a 3rd-year undergraduate studying math at University of Colorado Boulder."
+excerpt: "Clyde Kertzer"
 author_profile: true
 redirect_from: 
   - /about/
