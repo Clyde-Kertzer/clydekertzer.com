@@ -13,4 +13,4 @@ author_profile: true
 
 ## High School
  * May 2021: [An Introductory Exploration of Diophantine Equations](/files/IntroductoryExplorationDiophantineEquations.pdf). This paper served as my IB Math HL Internal Assessment.
- * October 2020: [Buffon's Needle](/files/Buffon'sNeedleGoogleDoc.pdf). This was my first ever math paper, and yes, I wrote it in google docs.
+ * October 2020: [Buffon's Needle](/files/Buffon'sNeedleGoogleDoc.pdf). This was my first ever math paper, and yes, I wrote it in google docs. I wrote it for my IB extended essay.
