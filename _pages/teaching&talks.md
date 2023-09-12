@@ -14,6 +14,7 @@ redirect_from:
   * Fall 2023: Grader for MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/nathaniel-thiem">Nat Thiem</a>.
   * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
   * Spring 2023: Grader for MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>.
+  * March 24, 2023: I taught a class of 4th graders at my old elementary school about infinite sums, and they understood it!
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
 
 ## Baylor
