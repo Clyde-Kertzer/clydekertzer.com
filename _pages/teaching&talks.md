@@ -15,6 +15,7 @@ redirect_from:
   * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
   * Spring 2023: Grader for MATH 2001 (Discrete Math), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>.
   * March 24, 2023: I taught a class of 4th graders at my old elementary school about infinite sums, and they understood it!
+  * March 9, 2022: I gave a [talk](/files/PresentationQuadraticReciprocity.pdf) at my old high school's Number Theory Club on modular arithmatic and quadratic residues.
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
 
 ## Baylor
