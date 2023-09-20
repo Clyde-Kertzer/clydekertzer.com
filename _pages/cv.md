@@ -24,6 +24,7 @@ redirect_from:
   
 ## Courses
 * Fall 2023
+  * MATH 4900 - Independent Study (Developing honors theis on Descartes quadruples of Apollonian circle packings, under
   * Math 4440 - Mathematics of Coding and Cryptography
   * Math 6130 - Graduate Algebra 1
   * Math 6190 - Graduate Analytic Number Theory
