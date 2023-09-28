@@ -13,4 +13,5 @@ author_profile: true
  * _A Classical Introduction to Modern Number Theory_, (Ireland & Rosen)
  * _An Introduction to the Theory of Numbers_, (Niven, Zuckerman, & Montgomery)
  * _A Selection of Problems in the Theory of Numbers_ (Sierpinski)
- * _Fermat's Enigma_, Simon Singh
+ * _Fermat's Enigma_, (Simon Singh)
+ * _Algebraic Theory of Quadratic Numbers_ (Mak Trifkovic)
