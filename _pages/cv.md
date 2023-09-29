@@ -20,7 +20,7 @@ redirect_from:
 * Aug - Dec 2022: Research Assistant & Developer, Numberscope
   * Programmed a <a href="https://numberscope.colorado.edu">Numberscope</a> visualizer that represents the Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
   * Developed the Numberscope website to provide and improve user experience.
-  * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 Arts & Sciences art contest!
+  * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 CU Arts & Sciences art contest!
   * Supervisor: Professor Stange
   
 ## Courses
