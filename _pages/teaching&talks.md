@@ -8,7 +8,7 @@ redirect_from:
 
 ## CU Boulder
   * Spring 2022 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra).
-  * October 20, 2023 I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) on my research on the local-global conjecture at the <a href="https://sites.google.com/view/maths-club-iiser-bhopal/">IISER Bhopal Math Club</a> for their series "Problems of Old."
+  * October 20, 2023 I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) on my <a href="https://clydekertzer.com/papers/">research</a> on the local-global conjecture at the <a href="https://sites.google.com/view/maths-club-iiser-bhopal/">IISER Bhopal Math Club</a> for their series "Problems of Old."
   * September 8, 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
   * September 1. 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
   * Fall 2023: Grader for MATH 2130 (Linear Algebra for Non-Math Majors), Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>.
