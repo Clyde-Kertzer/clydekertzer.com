@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Some of my Favorite Books
+## Some of my Favorite Math Books
  * _Rational Points on Elliptic Curves_, (Silverman & Tate)
  * _The Arithemetic of Elliptic Curves_, (Silverman)
  * _A Classical Introduction to Modern Number Theory_, (Ireland & Rosen)
