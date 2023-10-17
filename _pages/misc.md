@@ -15,3 +15,4 @@ author_profile: true
  * _A Selection of Problems in the Theory of Numbers_ (Sierpinski)
  * _Fermat's Enigma_, (Simon Singh)
  * _Algebraic Theory of Quadratic Numbers_ (Mak Trifkovic)
+ * _Introduction to Analytic Number Theory_ (Tom Apostal)
