@@ -9,6 +9,6 @@ author_profile: true
 
 ## Conferences
 * JMM 2024 Jan 3 - 6. (Upcoming)
-* I will be presenting a [poster](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) based on my summer REU research.
+* I will be presenting a [poster](/files/Poster__The_Local_Global_Conjecture_is_False (1).pdf) based on my summer REU research.
 
 
