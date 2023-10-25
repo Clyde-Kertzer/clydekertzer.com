@@ -9,6 +9,6 @@ author_profile: true
 
 ## Conferences
 * JMM 2024 Jan 3 - 6. (Upcoming)
-* I will be presenting a [poster](files/Poster.pdf) based on my summer REU research. https://clydekertzer.com/papers/
+* I will be presenting a [poster](files/Poster.pdf) based on my <a href="https://clydekertzer.com/papers/">summer REU research.</a>
 
 
