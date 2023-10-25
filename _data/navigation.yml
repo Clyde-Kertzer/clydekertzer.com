@@ -9,9 +9,8 @@ main:
   - title: "Papers"
     url: /papers/
 
-    - title: "Conferences"
+  - title: "Conferences"
     url: /conferences/
-
   
   - title: "Miscellaneous"
     url: /misc/
