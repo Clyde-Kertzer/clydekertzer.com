@@ -24,11 +24,17 @@ redirect_from:
   * Supervisor: Professor Stange
   
 ## Courses
+* Spring 2024 (Upcoming)
+  * MATH 4330 - Fourier Analysis
+  * MATH 6140 - _Graduate_ Algebra 2
+  * MATH 6350 - _Graduate_ Functions of a Complex Variable 1
+  * MATH 8114 - _Graduate_ Topics in Number Theory
+
 * Fall 2023
   * MATH 4900 - Independent Study (Developing honors theis on Descartes quadruples of Apollonian circle packings, under <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
   * Math 4440 - Mathematics of Coding and Cryptography
-  * Math 6130 - Graduate Algebra 1
-  * Math 6190 - Graduate Analytic Number Theory
+  * Math 6130 - _Graduate_ Algebra 1
+  * Math 6190 - _Graduate_ Analytic Number Theory
 
 * Spring 2023
   * MATH 4890 - Honors Independent Study (Reading course with <a href="https://www.colorado.edu/math/david-grant">David Grant</a> over _Rational Points on Elliptic Curves_, Silverman & Tate) 
@@ -37,7 +43,7 @@ redirect_from:
 
 * Fall 2022
   * MATH 4001 - Analysis 2
-  * MATH 6110 - Graduate Intro to Number Theory
+  * MATH 6110 - _Graduate_ Intro to Number Theory
 
 * Summer 2022
   * MATH 3140 - Abstract Algebra 1
