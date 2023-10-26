@@ -31,7 +31,7 @@ redirect_from:
   * MATH 8114 - _Graduate_ Topics in Number Theory
 
 * Fall 2023
-  * MATH 4900 - Independent Study (Developing honors theis on Descartes quadruples of Apollonian circle packings, under <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
+  * MATH 4900 - Independent Study (Developing honors theis on Descartes quadruples of Apollonian circle packings, under <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>).
   * Math 4440 - Mathematics of Coding and Cryptography
   * Math 6130 - _Graduate_ Algebra 1
   * Math 6190 - _Graduate_ Analytic Number Theory
