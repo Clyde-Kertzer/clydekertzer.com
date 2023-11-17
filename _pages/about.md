@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello! My name is Clyde Kertzer and I am a 3rd-year undergraduate studying math at University of Colorado Boulder. 
-I plan on pursuing number theory in graduate school.
+I plan on pursuing number theory in graduate school. I have also found that I also enjoy representation theory and character theory.
 
 ---
  
