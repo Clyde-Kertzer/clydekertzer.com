@@ -29,6 +29,7 @@ redirect_from:
   * MATH 6140 - _Graduate_ Algebra 2
   * MATH 6350 - _Graduate_ Functions of a Complex Variable 1
   * MATH 8114 - _Graduate_ Topics in Number Theory
+  * MATH 8174 - _Graduate_ Topics in Algebra
 
 * Fall 2023
   * MATH 4900 - Independent Study (Developing honors theis on Descartes quadruples of Apollonian circle packings, under <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>).
