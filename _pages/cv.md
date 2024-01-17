@@ -24,7 +24,7 @@ redirect_from:
   * Supervisor: Professor Stange
   
 ## Courses
-* Spring 2024 (Upcoming)
+* Spring 2024
   * MATH 4330 - Fourier Analysis
   * MATH 6140 - _Graduate_ Algebra 2
   * MATH 6350 - _Graduate_ Functions of a Complex Variable 1
