@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Teaching and Talks
-  * January 5, 2024: * I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a> at JMM.
+  * January 5, 2024: I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a> at JMM.
   * December 6, 2023: I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___Parameterizations_of_Descartes_Quadrupless.pdf) on my work on Paramaterizations of Descartes Quadruples for my analytic number theory final presentation.
   * October 10, 2023: I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) on my <a href="https://clydekertzer.com/papers/">research</a> on the local-global conjecture at the <a href="https://sites.google.com/view/maths-club-iiser-bhopal/">IISER Bhopal Math Club</a> for their series "Problems of Old."
   * September 8, 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
