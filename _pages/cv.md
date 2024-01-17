@@ -14,10 +14,10 @@ redirect_from:
 * Graduated from Fairview High School with International Baccalaureate Diploma
 
 ## Research Experience
-* May 2023 - Present: Apollonian Circle Packings REU
+* Summer 2023: Apollonian Circle Packings REU
   * Supervisor: Professor Stange and Dr. Rickards
 
-* Aug - Dec 2022: Research Assistant & Developer, Numberscope
+* Fall 2022: Research Assistant & Developer, Numberscope
   * Programmed a <a href="https://numberscope.colorado.edu">Numberscope</a> visualizer that represents the Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
   * Developed the Numberscope website to provide and improve user experience.
   * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 CU Arts & Sciences art contest!
