@@ -28,7 +28,7 @@ redirect_from:
   * MATH 4330 - Fourier Analysis
   * MATH 6140 - _Graduate_ Algebra 2
   * MATH 6350 - _Graduate_ Functions of a Complex Variable 1
-  * MATH 8114 - _Graduate_ Topics in Number Theory
+  * MATH 8114 - _Graduate_ Topics in Number Theory (Diophantine Approximation)
   * MATH 8174 - _Graduate_ Topics in Algebra
 
 * Fall 2023
