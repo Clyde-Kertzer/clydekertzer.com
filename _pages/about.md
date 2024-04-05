@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Clyde Kertzer and I am a 3rd-year undergraduate studying mathematics at University of Colorado Boulder. 
-I especially enjoy number theory, cryptography and cybersecurity.
+Hello! My name is Clyde Kertzer and I am a junior studying mathematics at University of Colorado, Boulder. 
+I especially enjoy number theory, representation theory, and character theory!
 
 ---
  
