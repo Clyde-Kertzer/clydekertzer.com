@@ -12,8 +12,7 @@ Hello! My name is Clyde Kertzer and I am a junior studying mathematics at Univer
 
 ---
 
-My honors thesis  
-<a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a> are advising my undergraduate honors thesis on Descartes quaruples of <a href="https://en.wikipedia.org/wiki/Apollonian_gasket">Apollonian circle packings</a> 
+My honors thesis,href="https://math.colorado.edu/~jari2770">_Parameterizations of Descartes Quadruples_</a>  was advised by <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
 
 ## Other Interests
 
