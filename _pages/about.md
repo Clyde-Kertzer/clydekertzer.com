@@ -16,7 +16,7 @@ My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThe
 
 ---
 
-My CV (updated April 2024).
+My [CV](/files/ClydeKertzerCVApril2024.pdf) (updated April 2024).
 
 ---
 
