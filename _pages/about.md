@@ -14,6 +14,12 @@ Hello! My name is Clyde Kertzer and I am a junior studying mathematics at Univer
 
 My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThesis.pdf) was advised by <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
 
+---
+
+My CV (updated April 2024).
+
+---
+
 ## Other Interests
 
 When I'm not doing math, I'm probably playing soccer or hockey, watching the USMNT, or playing the trombone!
