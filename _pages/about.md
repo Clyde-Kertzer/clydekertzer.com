@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Clyde Kertzer and I am a junior studying mathematics at University of Colorado, Boulder. 
-I especially enjoy number theory, representation theory, and character theory!
+Hello! My name is Clyde Kertzer and I am a junior studying mathematics at University of Colorado, Boulder. I hope to go to grad school for number theory, but I also enjoy representation theory, and character theory!
 
 ---
- 
+
+My honors thesis  
 <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a> are advising my undergraduate honors thesis on Descartes quaruples of <a href="https://en.wikipedia.org/wiki/Apollonian_gasket">Apollonian circle packings</a> 
 
 ## Other Interests
