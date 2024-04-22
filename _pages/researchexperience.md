@@ -13,7 +13,8 @@ author_profile: true
   * Further developed Numberscope visualizer to increase functionality
   * Advisor: Professor <a href="https://sites.google.com/view/sarahpetersen/home">Sarah Peterson</a>
   
-* Fall 2022: Research Assistant & Developer, <a href="https://numberscope.colorado.edu">Numberscope</a> <div style="text-align: right"> your-text-here </div>
+* Fall 2022: Research Assistant & Developer, <a href="https://numberscope.colorado.edu">Numberscope</a> <div align="right">date</div>
+
   * Programmed visualizer that represents Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
   * Developed the Numberscope website to provide and improve user experience.
   * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 CU Arts & Sciences art contest!
