@@ -9,7 +9,7 @@ author_profile: true
 
 ## Research Experience
 * <a href="https://www.colorado.edu/math/gallery-theorems">Gallery of Theorems</a>, Spring 2024
-  * Aim: Represent mathematics concepts using artistic mediums
+  * Aim: Represent mathematical concepts using artistic mediums
   * Further developed Numberscope visualizer to increase functionality
   * Advisor: Professor <a href="https://sites.google.com/view/sarahpetersen/home">Sarah Peterson</a>
 
