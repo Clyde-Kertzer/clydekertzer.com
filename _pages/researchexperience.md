@@ -15,12 +15,12 @@ author_profile: true
 
 * Independent Study - Parameterizations of Descartes Quadruples, Fall 2023
   * Developed honors thesis on Descartes quadruples of Apollonian circle packings
-  * Advisors: PRofessor <a href="https://math.katestange.net">Kate Stange</a> and Professor  <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
+  * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
 * CU Boulder REU - Apollonian Circle Packings, Summer 2023
   * Disproved the Local-Global Conjecture for Apollonian Circle Packings
-  * <a href="https://arxiv.org/abs/2307.02749">Preprint</a? led to an article in \href{https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/}{Quanta Magazine}
-  * Advisors: Professor Kate Stange, Professor James Rickards
+  * <a href="https://arxiv.org/abs/2307.02749">Preprint</a> led to an article in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta Magazine}
+  * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
 * Honors Independent Study - Elliptic Curves, Spring 2023
   * Reading course over _Rational Points on Elliptic Curves_, Silverman \& Tate
