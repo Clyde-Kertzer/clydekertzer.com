@@ -2,15 +2,15 @@
 main:
   - title: "Research Experience"
     url: /researchexperience/
+
+  - title: "Papers"
+    url: /papers/
     
   - title: "CV"
     url: /cv/
 
   - title: "Teaching & Talks"
     url: /teaching&talks/
-    
-  - title: "Papers"
-    url: /papers/
 
   - title: "Conferences"
     url: /conferences/
