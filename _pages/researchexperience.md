@@ -14,7 +14,7 @@ author_profile: true
   * Advisor: Professor <a href="https://sites.google.com/view/sarahpetersen/home">Sarah Peterson</a>
 
 * Independent Study - Parameterizations of Descartes Quadruples, Fall 2023
-  * Developed honors thesis on Descartes quadruples of Apollonian circle packings
+  * Developed [honors thesis](/files/HonorsThesis.pdf) on Descartes quadruples of Apollonian circle packings
   * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
 * CU Boulder REU - Apollonian Circle Packings, Summer 2023
