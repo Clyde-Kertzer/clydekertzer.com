@@ -12,7 +12,7 @@ Hello! My name is Clyde Kertzer and I am a junior studying mathematics at Univer
 
 ---
 
-My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThesis.pdf) was advised by <a href="https://math.katestange.net">Kate Stange</a> and <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
+My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThesis.pdf) was advised by Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
 
 ---
 
