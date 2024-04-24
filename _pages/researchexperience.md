@@ -30,9 +30,9 @@ author_profile: true
   * Programmed visualizer that represents Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
   * Developed the Numberscope website to provide and improve user experience.
   * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 CU Arts & Sciences art contest!
-  * Supervisor: Professor Stange
+  * Supervisor: Professor <a href="https://math.katestange.net">Kate Stange</a
 
 * Independent Study - Quadratic Reciprocity, Fall 2021
   * Reading course over _An Introduction to the Theory of Numbers_, Niven, Zuckerman, & Montgomery
-  * Final Presentation [talk](/files/PresentationQuadraticReciprocity.pdf)
-  * Advisor: Professor Paul Hagelstein
+  * Final presentation [slides](/files/PresentationQuadraticReciprocity.pdf)
+  * Advisor: Professor <a href="https://sites.baylor.edu/paul_hagelstein/">Paul Hagelstein</a>
