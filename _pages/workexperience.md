@@ -19,4 +19,5 @@ author_profile: true
   * MATH 2001 (Discrete Math) - Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
 
 ## Tutoring
-  * 2019 - Present: Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
+  * 2019 - Present:
+    * Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
