@@ -17,7 +17,7 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204330">4330</a> - Fourier Analysis
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206140">6140</a> - _Graduate_ Algebra 2
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206350">6350</a> - _Graduate_ Functions of a Complex Variable 1
-  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%208114">8114</a> - _Graduate_ Topics in Number Theory (Diophantine Approximation)
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%208114">8114</a> - _Graduate_ Topics in Number Theory (Ergodic Theory)
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%208174">8174</a> - _Graduate_ Topics in Algebra (Mathematical Cryptography)
 
 * Fall 2023:
