@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 ## Talks
-  * Apr 10, 2024: Honors Thesis Defense 
-    * [Paper](/files/HonorsThesis.pdf) &#124; [slides](/files/HonorsThesisSlides.pdf)
+  * Apr 10, 2024: I defende my [Honors Thesis](/files/HonorsThesis.pdf), [slides](/files/HonorsThesisSlides.pdf)
   * Feb 14, 2024: I was a speaker on the Undergraduate Involvement Panel, <a href=?https://sites.google.com/colorado.edu/cosmos/home?>Cosmos Math Club</a>
   * Jan 5, 2024: I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a> at JMM.
   * Dec 6, 2023: I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___Parameterizations_of_Descartes_Quadrupless.pdf) on my work on Paramaterizations of Descartes Quadruples for my analytic number theory final presentation.
