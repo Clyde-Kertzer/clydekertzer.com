@@ -8,7 +8,7 @@ redirect_from:
 
 ## Talks
   * Apr 10, 2024: I defended my [Honors Thesis](/files/HonorsThesis.pdf), [slides](/files/HonorsThesisSlides.pdf)
-  * Feb 14, 2024: I was a speaker on the Undergraduate Involvement Panel, <a href=?https://sites.google.com/colorado.edu/cosmos/home?>Cosmos Math Club</a>
+  * Feb 14, 2024: I was a speaker on the Undergraduate Involvement Panel, <a href="https://sites.google.com/colorado.edu/cosmos/home">Cosmos Math Club</a>
   * Jan 5, 2024: I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a> at JMM.
   * Dec 6, 2023: I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___Parameterizations_of_Descartes_Quadrupless.pdf) on my work on Paramaterizations of Descartes Quadruples for my analytic number theory final presentation.
   * Oct 10, 2023: I gave a [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) on my <a href="https://clydekertzer.com/papers/">research</a> on the local-global conjecture at the <a href="https://sites.google.com/view/maths-club-iiser-bhopal/">IISER Bhopal Math Club</a> for their series "Problems of Old."
