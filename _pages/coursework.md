@@ -5,6 +5,8 @@ permalink: /coursework/
 author_profile: true
 ---
 
+{% include base_path %}
+
 * Fall 2024 (upcoming):
   * MATH 3170 - Combinatorics
   * MATH 4230 - Differential Geometry 
