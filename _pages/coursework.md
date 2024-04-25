@@ -42,6 +42,6 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203450">3450</a> - Intro to Complex Variables 
 
 * Fall 2021: at Baylor University
-  * MTH 2311 - Linear Algebra
-  * MTH 3300 - Foundations of Mathematics 
-  * MTH 3325 - Ordinary Differential Equations
+  * MTH <a href="https://catalog.baylor.edu/search/?P=MTH%202311">2311</a> - Linear Algebra
+  * MTH <a href="https://catalog.baylor.edu/search/?P=MTH%203300">3300</a> - Foundations of Mathematics 
+  * MTH <a href="https://catalog.baylor.edu/search/?P=MTH%203325">3325</a> - Ordinary Differential Equations
