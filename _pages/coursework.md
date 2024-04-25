@@ -11,7 +11,7 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203170">3170</a> - Combinatorics
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204230">4230</a> - Differential Geometry 
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206310">6310</a> - _Graduate_ Introduction to Real Analysis 1
-  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210/a> - _Graduate_ Introduction to Topology 
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210</a> - _Graduate_ Introduction to Topology 
 
 * Spring 2024:
   * MATH 4330 - Fourier Analysis
