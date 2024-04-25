@@ -14,6 +14,7 @@ author_profile: true
 ### Honors Thesis
  * [_Parameterizations of Descartes Quadruples_](/files/HonorsThesis.pdf) &#124; <a href="https://scholar.colorado.edu/concern/undergraduate_honors_theses/1r66j2803">CU Scholar</a>
  * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
+ * Defense: April 10, 2024 &#124; [slides](/files/HonorsThesisSlides.pdf)
 
 ### High School
  * May 2021: [An Introductory Exploration of Diophantine Equations](/files/IntroductoryExplorationDiophantineEquations.pdf). This paper served as my IB Math HL Internal Assessment. This was the first time I used LaTeX!
