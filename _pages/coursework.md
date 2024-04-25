@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 * Fall 2024 (upcoming):
-  * MATH 3170 - Combinatorics
-  * MATH 4230 - Differential Geometry 
-  * MATH 6310 - _Graduate_ Introduction to Real Analysis 1
-  * MATH 6210 - _Graduate_ Introduction to Topology 
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203170">3170</a> - Combinatorics
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204230">4230</a> - Differential Geometry 
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206310">6310</a> - _Graduate_ Introduction to Real Analysis 1
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210/a> - _Graduate_ Introduction to Topology 
 
 * Spring 2024:
   * MATH 4330 - Fourier Analysis
