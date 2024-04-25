@@ -18,7 +18,7 @@ author_profile: true
   * MATH 6140 - _Graduate_ Algebra 2
   * MATH 6350 - _Graduate_ Functions of a Complex Variable 1
   * MATH 8114 - _Graduate_ Topics in Number Theory (Diophantine Approximation)
-  * MATH 8174 - _Graduate_ Topics in Algebra (Mathematical Cryptography)
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%208174">8174</a> - _Graduate_ Topics in Algebra (Mathematical Cryptography)
 
 * Fall 2023:
   * Math 4440 - Mathematics of Coding and Cryptography
