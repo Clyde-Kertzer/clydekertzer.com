@@ -37,7 +37,7 @@ author_profile: true
   * MATH 3140 - Abstract Algebra 1
  
 * Spring 2022: I transferred from Baylor to CU Boulder
-  * MATH 3001 - Analysis 1
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203001">3001</a> - Analysis 1
   * MATH 3110 - Intro to Number Theory
   * MATH 3450 - Intro to Complex Variables 
 
