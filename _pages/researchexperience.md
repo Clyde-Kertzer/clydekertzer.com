@@ -23,7 +23,7 @@ author_profile: true
   * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
 * Honors Independent Study - Elliptic Curves, Spring 2023
-  * Reading course over _Rational Points on Elliptic Curves_, Silverman \& Tate
+  * Reading course over _Rational Points on Elliptic Curves_, Silverman & Tate
   * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
   
 * <a href="https://numberscope.colorado.edu">Numberscope</a> - Research Assistant & Developer, Fall 2022
