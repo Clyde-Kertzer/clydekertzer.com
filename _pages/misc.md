@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-Here's what I drew for the Sidewalk Symposium!
+Check out my [chalk drawing](/files/SScircles.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium!</a>
 
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
