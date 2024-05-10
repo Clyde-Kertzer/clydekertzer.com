@@ -1,4 +1,4 @@
----
+/---
 layout: archive
 title: ""
 permalink: /misc/
@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Check out my [chalk drawing](files/SSCircles.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium!</a>
+Check out my [chalk drawing](/files/SSCircles.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium!</a>
 
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
