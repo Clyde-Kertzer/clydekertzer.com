@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+
+Here's what I drew for the Sidewalk Symposium!
+
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
   * _The Arithemetic of Elliptic Curves_, (Silverman)
