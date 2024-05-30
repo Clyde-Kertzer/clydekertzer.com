@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Clyde Kertzer and I am a junior studying mathematics at University of Colorado, Boulder. I hope to go to grad school for number theory, but I also enjoy representation theory, and character theory!
+Hello! My name is Clyde Kertzer and I am a senior studying mathematics at University of Colorado, Boulder. I hope to go to grad school for number theory, but I also enjoy representation theory and character theory!
 
 ---
 
