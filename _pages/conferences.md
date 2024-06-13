@@ -10,7 +10,7 @@ author_profile: true
 ## Conferences
 * <a href="https://ctnt-summer.math.uconn.edu/conference-24/">CTNT 2024</a>: UConn, CT - Jun 14-16, 2024
   * I gave a talk on Apollonian circle packings
-* CU Topology Day: Boulder, CO - Apr 23, 2024
+* <a href="https://math.colorado.edu/seminars/?date=2024-04-23">CU Topology Day</a>: Boulder, CO - Apr 23, 2024
 * <a href = "https://calendar.colorado.edu/event/undergraduate-research-expo">Undergraduate Research Expo</a>: Boulder, CO - Apr 20, 2024
   * I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a>
 * <a href="https://sites.google.com/view/frontrangenumbertheoryday/home?authuser=0">Front Range Number Theory Day</a>: Boulder, CO - Apr 13, 2024
