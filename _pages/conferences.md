@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Conferences
+* CTNT 2024: UConn, Jun 14-16, 2024
+  * I gave a talk on Apollonian circle packings
 * CU Topology Day: Boulder, CO - Apr 23, 2024
 * <a href = "https://calendar.colorado.edu/event/undergraduate-research-expo">Undergraduate Research Expo</a>: Boulder, CO - Apr 20, 2024
   * I presented a [poster](/files/Poster.pdf) on my <a href="https://clydekertzer.com/papers/">summer REU research</a>
