@@ -11,7 +11,14 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203170">3170</a> - Combinatorics
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204230">4230</a> - Differential Geometry 
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206310">6310</a> - _Graduate_ Introduction to Real Analysis 1
-  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210</a> - _Graduate_ Introduction to Topology 
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210</a> - _Graduate_ Introduction to Topology
+ 
+* Summer 2024: <a href="https://ctnt-summer.math.uconn.edu/summer-school-24/">Connecticut Summer School in Number Theory</a>, UConn, CT - June 9-16. Five mini-courses:
+  * Using Quadratic Reciprocity
+  * Adeles and Ideles
+  * Class Field Theory
+  * Introduction to Elliptic Curves
+  * Computations in Number Theory
 
 * Spring 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204330">4330</a> - Fourier Analysis
