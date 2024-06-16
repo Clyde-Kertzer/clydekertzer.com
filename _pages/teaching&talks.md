@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Talks
-  * June 15, 2024: I gave a [talk](/files/CTNTPres.pdf) with <a href="https://math.colorado.edu/~suha3163/">Summer Haag<\a> on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a> at <a hred="https://ctnt-summer.math.uconn.edu/conference-24/">CTNT<\a>.
+  * June 15, 2024: I gave a [talk](/files/CTNTPres.pdf) with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a> on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a> at <a hred="https://ctnt-summer.math.uconn.edu/conference-24/">CTNT<\a>.
   * Apr 10, 2024: I defended my [Honors Thesis](/files/HonorsThesis.pdf), [slides](/files/HonorsThesisSlides.pdf).
   * Feb 14, 2024: I was a speaker on the Undergraduate Involvement Panel, <a href="https://sites.google.com/colorado.edu/cosmos/home">Cosmos Math Club</a>.
   * Jan 5, 2024: I presented a [poster](/files/Poster.pdf) on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a> at JMM.
