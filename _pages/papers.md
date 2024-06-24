@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### The Local-Global Conjecture for Apollonian circle packings is false (Submitted)
+### The Local-Global Conjecture for Apollonian circle packings is false 
  * With <a href="https://math.katestange.net">Kate Stange</a>, <a href="https://math.colorado.edu/~jari2770">James Rickards</a>, and <a href="https://math.colorado.edu/~suha3163/#">Summer Haag</a>
  * <a href="https://arxiv.org/abs/2307.02749">arXiv</a> &#124; <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta article</a> &#124; <a href="https://github.com/JamesRickards-Canada/Apollonian">github code</a> &#124; <a href="https://github.com/JamesRickards-Canada/Apollonian-Missing-Curvatures">github data</a> &#124; [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) &#124; [poster](/files/Poster.pdf)
 
