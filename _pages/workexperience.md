@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Grading
+* Summer 2024:
+  * MATH 3001 (Discrete Math) - Professor <a href="https://math.colorado.edu/~alde9049/">Alonso Delfin</a>
+
 * Spring 2024:
   * MATH 2001 (Discrete Math) - Professor <a href="https://math.colorado.edu/~jari2770/">James Rickards</a>
   * MATH 3001 (Analysis 1) - Professor <a href="https://math.colorado.edu/~seor3821/">Sean O'Rourke</a> 
