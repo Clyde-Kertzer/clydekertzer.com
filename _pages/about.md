@@ -16,6 +16,10 @@ My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThe
 
 ---
 
+I am tutor for <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>. 
+
+---
+
 My [CV](/files/ClydeKertzerCVApril2024.pdf) (updated April 2024).
 
 ---
