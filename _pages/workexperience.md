@@ -22,5 +22,7 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%202001">2001</a> (Discrete Math) - Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
 
 ## Tutoring
-  * 2019 - Present:
+  * Aug 2024 - Present:
+    * Tutor for <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>.  
+  * 2019 - Present: 
     * Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
