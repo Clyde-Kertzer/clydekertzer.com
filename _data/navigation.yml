@@ -12,11 +12,11 @@ main:
   - title: "Coursework"
     url: /coursework/
 
-  - title: "Teaching & Talks"
-    url: /teaching&talks/
-
   - title: "Conferences"
     url: /conferences/
+
+  - title: "Teaching & Talks"
+    url: /teaching&talks/
   
   - title: "Miscellaneous"
     url: /misc/
