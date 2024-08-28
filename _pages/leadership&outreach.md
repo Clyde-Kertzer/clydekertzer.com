@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
 ---
 
-## Talks
+## Leadership & Outreach
+ * COSMOS Math Club Leadership, Summer 2024 - Present
  * August 28, 2024: I was a speaker on the Student Panel for <a href="https://www.colorado.edu/artssciences-advising/college-arts-and-sciences-college-day">College Day</a>, representing the math major.
  * August 27, 2024: I talked about prime factorization and cryptography at Mesa Elementary.
  * June 28, 2024: I gave a [talk](/files/TeacherSeminarPres.pdf) with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a> and <a href="https://math.katestange.net">Kate Stange</a> for <a href="https://justinlanier.org/21st-century-mathematics-2024/">21st Century Mathematics 2024</a>, an online math teachers' conference.
