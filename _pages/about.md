@@ -16,6 +16,10 @@ My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThe
 
 ---
 
+An article about a paper I wrote (with Summer Haag, James Rickards and Katherine E. Stange,) was published in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta magazine</a>.
+
+---
+
 My [CV](/files/ClydeKertzer_CVAug24.pdf) (updated August 2024).
 
 ---
