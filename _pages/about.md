@@ -16,7 +16,7 @@ My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThe
 
 ---
 
-An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a>, James Rickards and <a href="https://math.katestange.net">Katherine E. Stange</a>) was published in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta magazine</a>.
+An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a>, <a href="https://math.colorado.edu/~jari2770">James Rickards</a> and <a href="https://math.katestange.net">Katherine E. Stange</a>) was published in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta magazine</a>.
 
 ---
 
