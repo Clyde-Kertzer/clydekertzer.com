@@ -5,7 +5,7 @@ permalink: /workexperience/
 author_profile: true
 ---
 
-## Grading
+## Grader - CU Boulder
 * Summer 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203001">3001</a> (Analysis 1) - Professor <a href="https://math.colorado.edu/~alde9049/">Alonso Delfin</a>
 
