@@ -13,7 +13,7 @@ name                     : &name "Clyde Kertzer"
 description              : &description "Clyde Kertzer Website"
 url                      : https://clydekertzer.com # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Clyde-Kertzer/Clyde-Kertzer.github.io"
+repository               : "Clyde-Kertzer/clydekertzer.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
