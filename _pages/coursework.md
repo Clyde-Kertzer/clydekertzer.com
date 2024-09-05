@@ -9,9 +9,9 @@ author_profile: true
 
 * Fall 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203170">3170</a> - Combinatorics
-  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204230">4230</a> - Differential Geometry 
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206310">6310</a> - _Graduate_ Introduction to Real Analysis 1
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210</a> - _Graduate_ Introduction to Topology
+  * EDUC 4050 - Learning in Mathematics
  
 * Summer 2024: <a href="https://ctnt-summer.math.uconn.edu/summer-school-24/">Connecticut Summer School in Number Theory</a>, UConn, CT - June 9-16. Five mini-courses:
   * Using Quadratic Reciprocity
