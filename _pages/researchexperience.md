@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
+* <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Interactive Pedagogy</a>, Fall 2024.
+  *  Aim: Create interactive talks aimed at undergraduates.
+  * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
+
 * <a href="https://www.colorado.edu/math/gallery-theorems">Gallery of Theorems</a>, Spring 2024
   * Aim: Represent mathematical concepts using artistic mediums
   * Further developed Numberscope visualizer to increase functionality
