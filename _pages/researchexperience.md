@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
+* Independent Study - Verification of Reciprocity Laws, Spring 2024
+  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
+
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Interactive Pedagogy</a>, Fall 2024.
   *  Aim: Create interactive talks aimed at undergraduates.
   * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
