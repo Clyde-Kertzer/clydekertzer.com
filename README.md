@@ -1,3 +1,3 @@
 Academic Website of Clyde Kertzer
 
-clydekertzer.com
+<a href="clydekertzer.com">clydekertzer.com</a>
