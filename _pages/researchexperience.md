@@ -12,7 +12,8 @@ author_profile: true
   * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
 
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Interactive Pedagogy</a>, Fall 2024.
-  *  Aim: Create interactive talks aimed at undergraduates.
+  * Aim: Create interactive talks aimed at undergraduates.
+  * My presentation: [Packing Problems & Number Theory}(/files/Packing_Problems___Number_Theory(6).pdf)
   * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
 
 * <a href="https://www.colorado.edu/math/gallery-theorems">Gallery of Theorems</a>, Spring 2024
