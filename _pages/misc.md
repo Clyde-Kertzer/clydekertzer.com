@@ -9,7 +9,7 @@ author_profile: true
 
 My [chalk drawing](/files/SSCircles1.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium</a>
 
-My [acrylic circle packing](/files.circles.jpg) set
+My [acrylic circle packing](/files/circles.jpg) set
 
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
