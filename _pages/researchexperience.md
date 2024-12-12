@@ -14,7 +14,7 @@ author_profile: true
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024.
   * Aim: Create interactive talks aimed at undergraduates.
   * My presentation: [Packing Problems & Number Theory](/files/PackingProblemsNumberTheory.pdf)
-  * Here is a CorelDraw file if you want to laser cut the circles associated with this project! 
+  * Here is a CorelDraw file if you want to laser cut the <a href="https://clydekertzer.com/files/circles.jpg">circles</a> associated with this project! 
   * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
 
 * <a href="https://www.colorado.edu/math/gallery-theorems">Gallery of Theorems</a>, Spring 2024
