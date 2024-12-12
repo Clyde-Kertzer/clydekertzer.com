@@ -11,7 +11,7 @@ author_profile: true
 * Independent Study - Verification of Reciprocity Laws, Spring 2024
   * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
 
-* <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Interactive Pedagogy</a>, Fall 2024.
+* <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024.
   * Aim: Create interactive talks aimed at undergraduates.
   * My presentation: [Packing Problems & Number Theory](/files/Packing&NT)
   * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
