@@ -13,7 +13,7 @@ author_profile: true
 
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Interactive Pedagogy</a>, Fall 2024.
   * Aim: Create interactive talks aimed at undergraduates.
-  * My presentation: [Packing Problems & Number Theory}(/files/Packing_Problems___Number_Theory(6).pdf)
+  * My presentation: [Packing Problems & Number Theory}(/files/Packing&NT)
   * Advisor: Dr. <a href="https://www.colorado.edu/math/emily-montelius">Emily Montelius</a> 
 
 * <a href="https://www.colorado.edu/math/gallery-theorems">Gallery of Theorems</a>, Spring 2024
