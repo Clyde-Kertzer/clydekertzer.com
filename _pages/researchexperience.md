@@ -25,7 +25,7 @@ author_profile: true
   * Developed [honors thesis](/files/HonorsThesis.pdf) on Descartes quadruples of Apollonian circle packings
   * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
-* <a href="[https://www.colorado.edu/math/undergraduate-program/summer-reu/summer-research-past-projects](https://www.colorado.edu/math/undergraduate-program/summer-reu/summer-research-past-projects#accordion-1039727886-1)">CU Boulder REU</a> - Apollonian Circle Packings, Summer 2023
+* <a href="https://www.colorado.edu/math/undergraduate-program/summer-reu/summer-research-past-projects#accordion-1039727886-1">CU Boulder REU</a> - Apollonian Circle Packings, Summer 2023
   * Disproved the Local-Global Conjecture for Apollonian Circle Packings
   * <a href="https://arxiv.org/abs/2307.02749">Preprint</a> led to an article in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta Magazine</a>
   * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
