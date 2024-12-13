@@ -9,7 +9,9 @@ author_profile: true
 
 My [chalk drawing](/files/SSCircles1.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium</a>
 
-My [acrylic circle packing](/files/circles.jpg) set
+The [acrylic circle packing](/files/circles.jpg) set I made for an IBL <a href="https://clydekertzer.com/researchexperience/">research project</a> 
+
+Here is a number [tier list](/files/tierlist.png) we made for a COSMOS math club meeting
 
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
