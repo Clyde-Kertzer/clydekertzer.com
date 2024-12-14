@@ -7,11 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+A [collage](/files/CollatzHD.jpg) I made using screenshots of my Numberscope visualizer won the 2023 CU Arts & Sciences art contest!
+
 My [chalk drawing](/files/SSCircles1.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium</a>
 
 The [acrylic circle packing](/files/circles.jpg) set I made for an IBL <a href="https://clydekertzer.com/researchexperience/">research project</a> 
 
-Here is a number [tier list](/files/tierlist.png) we made for a COSMOS math club meeting
+Here is a number [tier list](/files/tierlist.png) we made for a COSMOS math club meeting (12/6/24)
 
 ## Some of my favorite math (text)books
   * _Rational Points on Elliptic Curves_, (Silverman & Tate)
