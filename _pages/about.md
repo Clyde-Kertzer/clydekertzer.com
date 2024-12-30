@@ -20,7 +20,7 @@ An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3
 
 ---
 
-My [CV](/files/ClydeKertzer_CVAug24.pdf) (updated August 2024).
+My [CV](/files/ClydeKertzer_CVDec29.pdf) (updated Dec 2024).
 
 ---
 
