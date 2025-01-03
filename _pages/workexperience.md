@@ -17,6 +17,9 @@ Subjects I have tutored:
   * undergraduate (linear algebra, analysis)
 
 ## Grading - CU Boulder
+* Spring 2025:
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4140</a> (Representation Theory) - Professor <a href="https://sites.google.com/colorado.edu/agnesbeaudry/">Agnes Beaudry</a> 
+
 * Fall 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4510</a> (Probability Theory) - Professor <a href="https://www.colorado.edu/math/eric-stade">Eric Stade</a> 
 
