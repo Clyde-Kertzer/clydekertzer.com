@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Miscellaneous
+
 A [collage](/files/CollatzHD.jpg) I made using screenshots of my Numberscope visualizer won the 2023 CU Arts & Sciences art contest!
 
 My [chalk drawing](/files/SSCircles1.jpg) from the <a href="https://www.colorado.edu/urop/outreach/events/honors-sidewalk-symposium">Sidewalk Symposium</a>
