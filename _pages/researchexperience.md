@@ -8,9 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
-* Independent Study - Verification of Reciprocity Laws, Spring 2024
-  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
-
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024.
   * Aim: Create interactive talks aimed at undergraduates.
   * My presentation: [Packing Problems & Number Theory](/files/PackingProblemsNumberTheory.pdf)
@@ -30,10 +27,6 @@ author_profile: true
   * Disproved the Local-Global Conjecture for Apollonian Circle Packings
   * <a href="https://arxiv.org/abs/2307.02749">Preprint</a> led to an article in <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta Magazine</a>
   * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
-
-* Honors Independent Study - Elliptic Curves, Spring 2023
-  * Reading course over _Rational Points on Elliptic Curves_, Silverman & Tate
-  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
   
 * <a href="https://numberscope.colorado.edu">Numberscope</a> - Research Assistant & Developer, Fall 2022
   * Programmed visualizer that represents Collatz length of the values of a user-selected sequence from the OEIS using a scaled color gradient and a modular-controlled array.
@@ -41,7 +34,20 @@ author_profile: true
   * A [collage](/files/CollatzHD.jpg) I made using screenshots of my visualizer won the 2023 CU Arts & Sciences art contest!
   * Advisor: Professor <a href="https://math.katestange.net">Kate Stange</a>
 
-* Independent Study - Quadratic Reciprocity, Fall 2021
-  * Reading course over _An Introduction to the Theory of Numbers_, Niven, Zuckerman, & Montgomery
+## Reading Courses/Independent Studies
+* Algebraic Number Theory & Reciprocity Laws, Spring 2024
+  * _Reciprocity Laws_ (Lemmermeyer)
+  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
+
+* Lie Algebras, Spring 2024
+  * _Introduction to Lie Algebras and Representation Theory_ (Humphreys)
+  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">Richard Green</a>
+
+* Elliptic Curves, Spring 2023
+  * _Rational Points on Elliptic Curves_ (Silverman & Tate)
+  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
+
+* Introduction to Number Theory & Quadratic Reciprocity, Fall 2021
+  * _An Introduction to the Theory of Numbers_ (Niven, Zuckerman, & Montgomery)
   * Final presentation [slides](/files/PresentationQuadraticReciprocity.pdf)
   * Advisor: Professor <a href="https://sites.baylor.edu/paul_hagelstein/">Paul Hagelstein</a>
