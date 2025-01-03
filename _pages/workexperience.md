@@ -12,7 +12,7 @@ author_profile: true
 
 Subjects I have tutored:
   * elementary school math
-  * middle schoolmath
+  * middle school math
   * algebra 1 & 2
   * geometry
   * precalculus
