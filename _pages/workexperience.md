@@ -5,7 +5,14 @@ permalink: /workexperience/
 author_profile: true
 ---
 
+## Tutoring (elementary/middle school, algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
+  * <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium </a> Tutor, Dec 2024 - Present
+  * <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a> Tutor, August 2024 - Present  
+  * Private tutoring 2019 - Present: 
+
 ## Grader - CU Boulder
+* Fall 2024: MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4510</a> (Probability Theory) - Professor <a href="https://www.colorado.edu/math/eric-stade">Eric Stade</a> 
+
 * Summer 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203001">3001</a> (Analysis 1) - Professor <a href="https://math.colorado.edu/~alde9049/">Alonso Delfin</a>
 
@@ -20,9 +27,3 @@ author_profile: true
   
 * Spring 2023: 
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%202001">2001</a> (Discrete Math) - Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
-
-## Tutoring
-  * Aug 2024 - Present:
-    * Tutor for <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>.  
-  * 2019 - Present: 
-    * Private tutoring (algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
