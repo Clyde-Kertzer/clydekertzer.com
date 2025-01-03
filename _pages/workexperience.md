@@ -11,7 +11,8 @@ author_profile: true
   * Private tutoring 2019 - Present: 
 
 ## Grader - CU Boulder
-* Fall 2024: MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4510</a> (Probability Theory) - Professor <a href="https://www.colorado.edu/math/eric-stade">Eric Stade</a> 
+* Fall 2024:
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4510</a> (Probability Theory) - Professor <a href="https://www.colorado.edu/math/eric-stade">Eric Stade</a> 
 
 * Summer 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203001">3001</a> (Analysis 1) - Professor <a href="https://math.colorado.edu/~alde9049/">Alonso Delfin</a>
