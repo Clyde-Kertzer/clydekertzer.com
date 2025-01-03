@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
-* <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024.
+* <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024
   * Aim: Create interactive talks aimed at undergraduates.
   * My talk: [Packing Problems & Number Theory](/files/PackingProblemsNumberTheory.pdf)
   * Here are some laser cut <a href="https://clydekertzer.com/files/circles.jpg">circles</a> associated with the project! 
