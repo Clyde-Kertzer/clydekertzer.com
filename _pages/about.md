@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Clyde Kertzer and I am a senior studying mathematics at University of Colorado, Boulder. I have applied to grad school for number theory, but I also enjoy representation theory and character theory! I am tutor at the <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium</a> and <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>. 
+Hello! My name is Clyde Kertzer and I am a senior studying mathematics at University of Colorado, Boulder. I have applied to grad school for number theory, but I also enjoy representation theory and character theory! I am tutor at the <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium</a> and for <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>. 
 
 ---
 
