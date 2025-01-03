@@ -13,12 +13,8 @@ author_profile: true
 Subjects I have tutored:
   * elementary school math
   * middle school math
-  * algebra 1 & 2
-  * geometry
-  * precalculus
-  * calculus of any level
-  * linear algebra
-  * analysis
+  * high school (algebra 1 & 2, geometry, precalculus, calculus 1/2/3
+  * undergraduate (linear algebra, analysis)
 
 ## Grading - CU Boulder
 * Fall 2024:
