@@ -13,7 +13,7 @@ author_profile: true
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%206210">6210</a> - _Graduate_ Introduction to Topology
   * EDUC 4050 - Learning in Mathematics
  
-* Summer 2024: <a href="https://ctnt-summer.math.uconn.edu/summer-school-24/">Connecticut Summer School in Number Theory</a>, UConn, CT - June 9-16. Five mini-courses:
+* Summer 2024: <a href="https://ctnt-summer.math.uconn.edu/summer-school-24/">Connecticut Summer School in Number Theory</a>, UConn. Five mini-courses:
   * Using Quadratic Reciprocity
   * Adeles and Ideles
   * Class Field Theory
