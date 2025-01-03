@@ -5,10 +5,20 @@ permalink: /workexperience/
 author_profile: true
 ---
 
-## Tutoring (elementary/middle school, algebra 1 & 2, geometry, precalculus, calculus, linear algebra)
+## Tutoring
   * <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium </a> Tutor, Dec 2024 - Present
   * <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a> Tutor, August 2024 - Present  
-  * Private tutoring 2019 - Present: 
+  * Private tutoring, 2019 - Present
+
+Subjects I have tutored:
+  * elementary school math
+  * middle schoolmath
+  * algebra 1 & 2
+  * geometry
+  * precalculus
+  * calculus of any level
+  * linear algebra
+  * analysis
 
 ## Grader - CU Boulder
 * Fall 2024:
