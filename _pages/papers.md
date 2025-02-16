@@ -15,8 +15,8 @@ author_profile: true
 
 
 ### Aftermath: Building Community with COSMOS
-  * With <a href="https://oscarbenderstone0.wordpress.com/"><Oscar Bender-Stone>
-  * <a href="https://www.tandfonline.com/doi/full/10.1080/10724117.2024.2421733"><Math Horizons> 32(3), 35 (February 2025)
+  * With <a href="https://oscarbenderstone0.wordpress.com/">Oscar Bender-Stone</a>
+  * <a href="https://www.tandfonline.com/doi/full/10.1080/10724117.2024.2421733">Math Horizons</a> 32(3), 35 (February 2025)
 
 
 ### Honors Thesis
