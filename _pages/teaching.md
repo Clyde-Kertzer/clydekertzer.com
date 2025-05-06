@@ -16,9 +16,18 @@ Subjects I have tutored:
   * high school (algebra 1 & 2, geometry, precalculus, calculus 1/2/3)
   * undergraduate (linear algebra, analysis)
 
+## Teaching
+ * Sep 8, 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
+ * Sep 1. 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
+
 ## Grading - CU Boulder
 * Spring 2025:
-  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204140">4140</a> (Representation Theory) - Professor <a href="https://sites.google.com/colorado.edu/agnesbeaudry/">Agnes Beaudry</a> 
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204140">4140</a> (Representation Theory) - Professor <a href="https://sites.google.com/colorado.edu/agnesbeaudry/">Agnes Beaudry</a>
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203110">3110</a> (Number Theory) - Professor <a href="https://www.colorado.edu/math/su-ion-ih">Ih</a>
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203450">3450</a> (Complex Variables) - Professor <a href="https://math.colorado.edu/~jonathan.wise/">Wise</a>
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%202135">2135</a> (Linear Algebra) - Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
+  
+    \item Linear Algebra (2 Sections) - Professor Kevin Manley
 
 * Fall 2024:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204510">4510</a> (Probability Theory) - Professor <a href="https://www.colorado.edu/math/eric-stade">Eric Stade</a> 
