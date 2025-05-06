@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Clyde Kertzer and I am a senior studying mathematics at University of Colorado, Boulder. I have applied to grad school for number theory, but I also enjoy representation theory and character theory! I am tutor at the <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium</a> and for <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a>. 
-
----
-
-My honors thesis, [_Parameterizations of Descartes Quadruples_](/files/HonorsThesis.pdf) was advised by Professor <a href="https://math.katestange.net">Katherine E. Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>.
+Hello! I’m Clyde Kertzer — a recent mathematics graduate from the University of Colorado Boulder with a focus on number theory, algebra, and cryptographic systems. I’ve conducted research published in Annals of Mathematics, built mathematical visualizations and encryption tools, and have experience tutoring advanced undergraduate topics. I'm now seeking opportunities in cryptography, cybersecurity, and mathematical software development.
 
 ---
 
@@ -20,7 +16,7 @@ An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3
 
 ---
 
-My [CV](/files/ClydeKertzer_CVDec29.pdf) (updated Dec 2024).
+Here's a long academic [CV](/files/ClydeKertzer_CVDec29.pdf) (updated Dec 2024).
 
 ---
 
