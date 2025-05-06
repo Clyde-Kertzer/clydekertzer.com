@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Teaching - CU Boulder
+ * Sep 8, 2023: I gave a 50-minute lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
+ * Sep 1. 2023: I gave a 50-minute lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
+
+## Teaching - Mesa Elementary School
+
+
 ## Tutoring
   * <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium </a> Tutor, Dec 2024 - Present
   * <a href="https://prepacademytutors.com/location/boulder/?tutor=clyde-k">Prep Academy</a> Tutor, August 2024 - Present  
@@ -15,10 +22,6 @@ Subjects I have tutored:
   * middle school math
   * high school (algebra 1 & 2, geometry, precalculus, calculus 1/2/3)
   * undergraduate (linear algebra, analysis)
-
-## Teaching
- * Sep 8, 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
- * Sep 1. 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
 
 ## Grading - CU Boulder
 * Spring 2025:
