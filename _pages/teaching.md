@@ -10,7 +10,11 @@ author_profile: true
  * Sep 1. 2023: I gave a 50-minute lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
 
 ## Teaching - Mesa Elementary School
-
+  * Graphing on the Coordinate Plane, <div style="float:right;">Feb 14, 2025</div> 
+  * Divisibility tricks, Nov 22, 2024
+  * Square numbers & Pythagorean triples, Oct 21, 2024
+  * Prime factorization & basics of cryptography, Aug 27, 2024
+  * Infinity & infinite sums, Mar 24, 2023
 
 ## Tutoring
   * <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium </a> Tutor, Dec 2024 - Present
