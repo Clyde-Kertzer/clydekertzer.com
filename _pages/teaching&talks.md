@@ -16,8 +16,3 @@ redirect_from:
  * Jun 15, 2023: I gave a [talk](/files/PresentationApollonianCirclePacking.pdf) on Apollonian Circle Packing during an REU at CU Boulder.
  * Mar 9, 2022: I gave a [talk](/files/PresentationQuadraticReciprocity.pdf) at my high school's Number Theory Club on modular arithmatic and quadratic residues.
  * Dec 13, 2021: I gave a talk on quadratic reciprocity as a final project for my reading course with Professor <a href="https://www.baylor.edu/math/index.php?id=54007">Paul Hagelstein</a>, [slides](/files/PresentationQuadraticReciprocity.pdf).
-
-
-## Teaching
- * Sep 8, 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
- * Sep 1. 2023: I gave a 50-minute class lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
