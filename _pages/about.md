@@ -16,7 +16,7 @@ An article about a paper I wrote (with <a href="https://math.colorado.edu/~suha3
 
 ---
 
-Here's a long academic [CV](/files/LongCVMay52025.pdf) (updated Dec 2024).
+Here's a long academic [CV](/files/LongCVMay25.pdf) (updated May 2025).
 
 ---
 
