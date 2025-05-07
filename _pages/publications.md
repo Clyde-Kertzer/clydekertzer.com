@@ -21,7 +21,7 @@ author_profile: true
 
 
 ### [Parameterizations of Descartes Quadruples (Honors Thesis)](/files/HonorsThesis.pdf)
- * <a href="https://scholar.colorado.edu/concern/undergraduate_honors_theses/1r66j2803">**CU Scholar**</a> (April 2024) &#124; Defensed April 10, 2024 &#124; [slides](/files/HonorsThesisSlides.pdf)
+ * <a href="https://scholar.colorado.edu/concern/undergraduate_honors_theses/1r66j2803">**CU Scholar**</a> (April 2024) &#124; Defended April 10, 2024 &#124; [slides](/files/HonorsThesisSlides.pdf)
  * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
 
 
