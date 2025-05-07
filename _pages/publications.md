@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ### Symmetries in Apollonian circle packings (Submitted) 
-  * interactive talk 
+  * interactive [talk](/files/PackingProblemsNT.pdf)
 
 
 ### The Local-Global Conjecture for Apollonian circle packings is false 
