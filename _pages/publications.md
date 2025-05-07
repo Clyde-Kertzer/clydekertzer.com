@@ -15,15 +15,14 @@ author_profile: true
  * <a href="https://arxiv.org/abs/2307.02749">arXiv</a> &#124; <a href="https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/">Quanta article</a> &#124; <a href="https://github.com/JamesRickards-Canada/Apollonian">github code</a> &#124; <a href="https://github.com/JamesRickards-Canada/Apollonian-Missing-Curvatures">github data</a> &#124; [talk](/files/Presentation__Apollonian_Circle_Packing___the_Local_Global_Conjecture.pdf) &#124; [poster](/files/Poster.pdf)
 
 
-### Aftermath: Building Community with COSMOS
+### [Aftermath: Building Community with COSMOS](/files/AftermathBuildingCommunitywithCOSMOS.pdf) 
   * With <a href="https://oscarbenderstone0.wordpress.com/">Oscar Bender-Stone</a>
   * <a href="https://www.tandfonline.com/doi/full/10.1080/10724117.2024.2421733">Math Horizons</a> 32(3), 35 (February 2025)
 
 
-### Parameterizations of Descartes Quadruples (Honors Thesis)
- * [*PDF*](/files/HonorsThesis.pdf) &#124; <a href="https://scholar.colorado.edu/concern/undergraduate_honors_theses/1r66j2803">**CU Scholar**</a> (April 2024)
+### [Parameterizations of Descartes Quadruples (Honors Thesis)](/files/HonorsThesis.pdf)
+ * <a href="https://scholar.colorado.edu/concern/undergraduate_honors_theses/1r66j2803">**CU Scholar**</a> (April 2024) &#124; Defensed April 10, 2024 &#124; [slides](/files/HonorsThesisSlides.pdf)
  * Advisors: Professor <a href="https://math.katestange.net">Kate Stange</a> and Professor <a href="https://math.colorado.edu/~jari2770">James Rickards</a>
- * Defense: April 10, 2024 &#124; [slides](/files/HonorsThesisSlides.pdf)
 
 
 ### High School Papers 
