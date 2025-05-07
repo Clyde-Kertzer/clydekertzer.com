@@ -5,12 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching - CU Boulder
- * Sep 8, 2023: I gave a 50-minute lecture for MATH 2135 (Linear Algebra) over matrix equations & homogeneous linear systems, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>. 
- * Sep 1. 2023: I gave a 50-minute lecture for MATH 2135 (Linear Algebra) over solutions to linear systems & vectors, Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>.
+# Teaching
 
-## Teaching - Mesa Elementary School
-  * Graphing on the Coordinate Plane, <div style="float:right;">Feb 14, 2025</div> 
+## CU Boulder
+ * 50-minute lecture for Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>'s MATH 2135 (Linear Algebra) class over matrix equations & homogeneous linear systems, Sep 8, 2023
+ * 50-minute lecture for Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>'s MATH 2135 (Linear Algebra) class over solutions to linear systems & vectors, Sep 1. 2023
+
+## Boulder High School
+  * I taught weekly math lessons through <a href="https://boh.bvsd.org/academics/academic-programs/avid-program">AVID</a>, Fall 2024
+
+## Mesa Elementary School
+  * Graphing on the Coordinate Plane, Feb 14, 2025 
   * Divisibility tricks, Nov 22, 2024
   * Square numbers & Pythagorean triples, Oct 21, 2024
   * Prime factorization & basics of cryptography, Aug 27, 2024
