@@ -27,10 +27,10 @@ author_profile: true
   * <a href="https://www.mathnasium.com/math-centers/boulder">Mathnasium </a> Tutor, Dec 2024 - Jan 2025
 
 Subjects I have tutored:
-  * elementary school math
-  * middle school math
-  * high school (algebra 1 & 2, geometry, precalculus, calculus 1/2/3)
   * undergraduate (linear algebra, analysis)
+  * high school (algebra 1 & 2, geometry, precalculus, calculus 1/2/3)
+  * middle school math
+  * elementary school math
 
 ## Grading - CU Boulder
 * Spring 2025:
