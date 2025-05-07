@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ## Talks
+ * Mar 5, 2025: I gave an interactive [talk] on Packing Problems and Number Theory at the CU Math Club
  * June 28, 2024: I gave a [talk](/files/TeacherSeminarPres.pdf) with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a> and <a href="https://math.katestange.net">Katherine Stange</a> for <a href="https://justinlanier.org/21st-century-mathematics-2024/">21st Century Mathematics 2024</a>, an online math teachers' conference.
  * June 15, 2024: I gave a [talk](/files/CTNTPres.pdf) with <a href="https://math.colorado.edu/~suha3163/">Summer Haag</a> on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a> at <a href="https://ctnt-summer.math.uconn.edu/conference-24/">CTNT</a>.
  * Apr 10, 2024: I defended my [Honors Thesis](/files/HonorsThesis.pdf), [slides](/files/HonorsThesisSlides.pdf).
