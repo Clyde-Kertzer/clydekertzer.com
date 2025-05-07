@@ -57,3 +57,6 @@ Subjects I have tutored:
   
 * Spring 2023: 
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%202001">2001</a> (Discrete Math) - Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
+
+  ### Fairview High School
+  * Aug 2019 - May 2021: I taught weekly lessons in the Number Theory Club that I started at Fairview High School. Somehow <a href="https://fah.bvsd.org/clubs-activities/number-theory-club">this link</a> is still active! edit: no it's not :(
