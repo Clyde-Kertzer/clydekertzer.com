@@ -10,6 +10,7 @@ author_profile: true
 ## <a href="https://promys.org/">PROMYS</a> - Boston University, Summer 2025
  * Mentored gifted high school students through intensive, proof-based number theory curriculum, providing detailed written feedback on daily problem sets
  * Led exploration lab on sums of squares and polygonal numbers
+ * July 22: I gave a minicourse on
 
 ## CU Boulder
  * 50-minute lecture for Professor <a href="https://math.colorado.edu/~rmg/">Richard Green</a>'s MATH 2135 (Linear Algebra) class over matrix equations & homogeneous linear systems, Sep 8, 2023
