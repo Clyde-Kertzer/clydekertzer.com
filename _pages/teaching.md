@@ -7,6 +7,8 @@ author_profile: true
 
 # Teaching
 
+I am a teacher at 
+
 ## <a href="https://promys.org/">PROMYS</a> - Boston University, Summer 2025
  * Mentored gifted high school students through intensive, proof-based number theory curriculum, providing detailed written feedback on daily problem sets
  * Led exploration lab on sums of squares and polygonal numbers
