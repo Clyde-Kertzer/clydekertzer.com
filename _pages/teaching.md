@@ -11,7 +11,7 @@ I am a teacher at I am a math Teacher at <a href="https://www.tarahighschool.org
 
 ## <a href="https://promys.org/">PROMYS</a> - Boston University, Summer 2025
  * Mentored gifted high school students through intensive, proof-based number theory curriculum, providing detailed written feedback on daily problem sets
- * Led exploration lab on sums of squares and polygonal numbers
+ * Led exploration lab on sums of squares and polygonal numbers. Here is the [paper](/files/PROMYSsumsOfSquaresExpo.pdf) my group produced! 
  * July 22: I gave a [minicourse](/files/PROMYScircle.pdf) on Apollonian Circle Packings.
 
 ## CU Boulder
