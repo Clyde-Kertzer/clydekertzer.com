@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
+* Mentor for Sums of Squares Exploration Lab, PROMYS, Summer 2025.
+ * Here is the [paper](/files/PROMYSsumsOfSquaresExpo.pdf) my group produced!  
+
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024
   * Aim: Create interactive talks aimed at undergraduates.
   * My talk: [Packing Problems & Number Theory](/files/PackingProblemsNumberTheory.pdf)
