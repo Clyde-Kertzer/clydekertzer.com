@@ -38,13 +38,13 @@ author_profile: true
   * Advisor: Professor <a href="https://math.katestange.net">Kate Stange</a>
 
 ## Reading Courses/Independent Studies
-* Algebraic Number Theory & Reciprocity Laws, Spring 2024
-  * _Reciprocity Laws_ (Lemmermeyer)
-  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
-
-* Lie Algebras, Spring 2024
+* Lie Algebras, Fall 2024 - Spring 2025
   * _Introduction to Lie Algebras and Representation Theory_ (Humphreys)
   * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">Richard Green</a>
+
+* Algebraic Number Theory & Reciprocity Laws, Fall 2024
+  * _Reciprocity Laws_ (Lemmermeyer)
+  * Advisor: Professor <a href="https://www.colorado.edu/math/david-grant">David Grant</a>
 
 * Elliptic Curves, Spring 2023
   * _Rational Points on Elliptic Curves_ (Silverman & Tate)
