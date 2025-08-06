@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Research Experience
-* Mentor for Sums of Squares Exploration Lab, PROMYS, Summer 2025.
+* Mentor for Sums of Squares Exploration Lab, <a href="https://promys.org/">PROMYS</a>, Summer 2025.
  * Here is the [paper](/files/PROMYSsumsOfSquaresExpo.pdf) my group produced!  
 
 * <a href="https://www.colorado.edu/math/creating-interactive-teaching-materials-early-undergraduate-mathematicians">Developing Inquiry Based Learning (IBL) Presentations</a>, Fall 2024
