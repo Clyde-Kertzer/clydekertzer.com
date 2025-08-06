@@ -40,6 +40,9 @@ Subjects I have tutored:
   * elementary school math
 
 ## Grading - CU Boulder
+* Summer 2025:
+  * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203140">3140</a> (Representation Theory) - Professor <a href="https://www.jbarhite.com/">Justin Barhite</a>
+
 * Spring 2025:
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%204140">4140</a> (Representation Theory) - Professor <a href="https://sites.google.com/colorado.edu/agnesbeaudry/">Agnes Beaudry</a>
   * MATH <a href="https://catalog.colorado.edu/search/?P=MATH%203110">3110</a> (Number Theory) - Professor <a href="https://www.colorado.edu/math/su-ion-ih">Suion Ih</a>
