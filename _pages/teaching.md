@@ -7,7 +7,7 @@ author_profile: true
 
 # Teaching
 
-I am a teacher at I am a math Teacher at <a href="https://www.tarahighschool.org/">TARA High School</a>, where I teach Algebra II, Geometry, and Calculus. 
+I am a teacher at I am a math Teacher at <a href="https://www.tarahighschool.org/">TARA High School</a>, where I teach 9th grade advanced Algebra II, 10th grade Geometry, 11th grade algebra 2, and 12th grade advanced Calculus. 
 
 ## <a href="https://promys.org/">PROMYS</a> - Boston University, Summer 2025
  * Mentored gifted high school students through intensive, proof-based number theory curriculum, providing detailed written feedback on daily problem sets
