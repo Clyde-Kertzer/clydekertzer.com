@@ -5,6 +5,8 @@ permalink: /TARAclasses/
 author_profile: true
 ---
 
+{% include base_path %}
+
 # 9th grade Algebra 2
 
 
