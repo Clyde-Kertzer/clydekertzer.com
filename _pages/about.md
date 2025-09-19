@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Clyde Kertzer — a recent mathematics graduate from the University of Colorado, Boulder with a focus on number theory, algebra, and cryptographic systems. I’ve conducted research published in Annals of Mathematics, built mathematical visualizations and encryption tools, and have experience tutoring advanced undergraduate topics. I am a math Teacher at TARA high school, where I teach Algebra II, Geometry, and Calculus.
+Hello! I’m Clyde Kertzer — a recent mathematics graduate from the University of Colorado, Boulder with a focus on number theory, algebra, and cryptographic systems. I’ve conducted research published in Annals of Mathematics, built mathematical visualizations and encryption tools, and have experience tutoring advanced undergraduate topics. I am a math Teacher at TARA high school, where I teach 9th grade algebra II, 10th grade advanced geometry, 11th grade algebra II, and 12th grade calculus.
 
 ---
 
