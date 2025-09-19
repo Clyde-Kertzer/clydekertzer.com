@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "TARA Classes"
+    url: /TARAclasses/
+
   - title: "Research Experience"
     url: /researchexperience/
 
