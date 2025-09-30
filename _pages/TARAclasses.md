@@ -22,6 +22,7 @@ author_profile: true
 </div>
 
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch2 | sec    | pg  | homework                        | extra credit  |
 | --  | ------ | --- | ------------------------------- | ------------- |
 | 2   | 1      | 57  | 1-65 eoo                        | 85-90         |
@@ -32,10 +33,12 @@ author_profile: true
 | 2   | 6      | 100 |  1-41 eoo                       | 73-78         |
 | 2   | 7      | 105 |  1-41 eoo                       | 83-86         |
 | 2   | review | 111 |  1-81 eoo                       | 3-83 eoo      |
+
 </div>
 
 # Geometry
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch1 | sec    | pg  |  homework                         |
 | --  | ------ | --- | --------------------------------- |
 | 1   | 1      | 8   |  3-16, 17-24 odd, 27-34           |
@@ -45,9 +48,11 @@ author_profile: true
 | 1   | 5      | 43  | 15, 16, 31, 32, 33-40 odd         |
 | 1   | 6      | 52  |     3-18 odd                      |
 | 1   | review | 56  |  7, 8, 10, 11, 14, 16, 17, 19-22  |
+
 </div>
 
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch2 | sec    | pg  |  homework                               |
 | --  | ------ | --- | --------------------------------------- |
 | 2   | 1      | 71  | 3-33 odd                                |
@@ -57,6 +62,7 @@ author_profile: true
 | 2   | 5      | 103 | 3-13 odd                                |
 | 2   | 6      | 111 | 3-6, 11, 18-19                          |
 | 2   | 6      | 111 | 20-24                                   |
+
 </div>
 
 
@@ -64,6 +70,7 @@ author_profile: true
 
 # Calculus
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch1 | sec    | pg  | homework                                      | extra credit            |
 |---- |--------|-----|-----------------------------------------------|-------------------------|
 | 1   | 2      | 54  | 1, 2, 9-18, 49-52                             | 23-26, 27-37 odd        |
@@ -72,9 +79,11 @@ author_profile: true
 | 1   | 5      | 85  | 9-12, 26-28, 33, 35, 41, 43, 60, 68-71        | 72-75                   |
 | 3   | 5      | 199 | 1-6, 13, 19-30, 53-58, 80                     | 37-40                   |
 | 1   | review |     | 1-25 odd, 31-47 odd, 53-67 odd                |                         |
+
 </div>
   
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch2 | sec    | pg  | homework                                      | extra credit            |
 |---- |--------|-----|-----------------------------------------------|-------------------------|
 | 2   | 1      | 101 | 5-21 eoo, 39-42, 71-80                        | 45-46, 89-92            |
@@ -84,4 +93,5 @@ author_profile: true
 | 2   | 5      | 142 | 1-13 eoo, 21-27 odd                           | 35-39 odd, 47-48        |
 | 2   | 6      | 149 | 15-27 eoo                                     | 43-44                   |
 | 2   | review | 153 | 1-77 eoo, 9-107 eoo                           |                         |
+
 </div>
