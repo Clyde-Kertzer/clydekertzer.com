@@ -10,6 +10,7 @@ author_profile: true
 # Algebra 2
 
 <div align="center" style="width:60%;" markdown="1">
+  
 | ch1 | sec    | pg | homework                             | extra credit    |
 | --- | ------ | -- | ------------------------------------ | --------------- |
 | 1   | 1      | 6  | 1–7                                  | 97–102          |
@@ -17,6 +18,7 @@ author_profile: true
 | 1   | 3      | 28 | 1–42 eoo; 43–52 odd; 53–94 eoo       | 99–104, 111–112 |
 | 1   | 4      | 40 | 1–14 odd; 15–34; 35–56 odd           | 75–97 odd       |
 | 1   | review |    | 5–101 eoo                            | 7–103 eoo       |
+
 </div>
 
 <div align="center" style="width:60%;" markdown="1">
