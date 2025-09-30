@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<div align="center" style="width:70%;">
+
 # Algebra 2
 
 | ch1 | sec    | pg | homework                             | extra credit    |
