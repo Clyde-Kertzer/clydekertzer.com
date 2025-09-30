@@ -9,7 +9,7 @@ author_profile: true
 
 # Algebra 2
 
-<div align="center" style="width:70%;">
+<div align="center" style="width:70%;" markdown="1">
 
 | ch1 | sec    | pg | homework                             | extra credit    |
 | --- | ------ | -- | ------------------------------------ | --------------- |
@@ -20,6 +20,7 @@ author_profile: true
 | 1   | review |    | 5–101 eoo                            | 7–103 eoo       |
 
 </div>
+
 
 | ch2 | sec    | pg  | homework                        | extra credit  |
 | --  | ------ | --- | ------------------------------- | ------------- |
