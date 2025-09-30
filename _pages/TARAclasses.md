@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<div align="center" style="width:70%;">
-
 # Algebra 2
+
+<div align="center" style="width:70%;">
 
 | ch1 | sec    | pg | homework                             | extra credit    |
 |:---:|:------:|:--:|:------------------------------------:|:---------------:|
@@ -18,6 +18,8 @@ author_profile: true
 | 1   | 3      | 28 | 1–42 eoo; 43–52 odd; 53–94 eoo       | 99–104, 111–112 |
 | 1   | 4      | 40 | 1–14 odd; 15–34; 35–56 odd           | 75–97 odd       |
 | 1   | review |    | 5–101 eoo                            | 7–103 eoo       |
+
+</div>
 
 | ch2 | sec    | pg  | homework                        | extra credit  |
 | --  | ------ | --- | ------------------------------- | ------------- |
