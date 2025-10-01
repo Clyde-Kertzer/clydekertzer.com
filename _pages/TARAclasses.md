@@ -9,7 +9,7 @@ author_profile: true
 
 # Algebra 2
 
-<div align="center" style="width:50%;" markdown="1">
+<div align="center" style="width:max-content;" markdown="1">
   
 | ch1 | sec    | pg | homework                             | extra credit    |
 | --- | ------ | -- | ------------------------------------ | --------------- |
@@ -21,7 +21,7 @@ author_profile: true
 
 </div>
 
-<div align="center" style="width:50%;" markdown="1">
+<div align="center" style="width:max-content;" markdown="1">
   
 | ch2 | sec    | pg  | homework                  | extra credit  |
 | --  | ------ | --- | ------------------------- | ------------- |
