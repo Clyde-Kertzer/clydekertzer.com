@@ -36,6 +36,7 @@ author_profile: true
 </div>
 
 # Geometry
+
 <div align="center" style="width:max-content;" markdown="1">
   
 | ch1 | sec    | pg |  homework                       |
@@ -52,15 +53,16 @@ author_profile: true
 
 <div align="center" style="width:max-content;" markdown="1">
   
-| ch2 | sec | pg  |  homework         |
-| --  | --- | --- | ----------------- |
-| 2   | 1   | 71  | 3-33 odd          |
-| 2   | 2   | 80  | 9-16, 29-30, 40ab |
-| 2   | 3   | 87  | 5-12, 27-28       |
-| 2   | 4   | 96  | 3-23 odd          |
-| 2   | 5   | 103 | 3-13 odd          |
-| 2   | 6   | 111 | 3-6, 11, 18-19    |
-| 2   | 6   | 111 | 20-24             |
+| ch2 | sec    | pg  |  homework         |
+| --  | ------ | --- | ----------------- |
+| 2   | 1      | 71  | 3-33 odd          |
+| 2   | 2      | 80  | 9-16, 29-30, 40ab |
+| 2   | 3      | 87  | 5-12, 27-28       |
+| 2   | 4      | 96  | 3-23 odd          |
+| 2   | 5      | 103 | 3-13 odd          |
+| 2   | 6      | 111 | 3-6, 11, 18-19    |
+| 2   | 6      | 111 | 20-24             |
+| 2   | review | 116 | 1-25eoo           |
 
 </div>
 
