@@ -35,6 +35,22 @@ author_profile: true
 
 </div>
 
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch3 | pg  | homework  | extra credit |
+| --- | --- | --------- | ------------ |
+| 3   | 129 | 1–61 eoo  | 63–73 odd    |
+| 3   | 142 | 1–77 eoo  | 91–94        |
+| 3   | 152 | 1–61 eoo  | 83–88        |
+| 3   | 164 | 1–65 eoo  | 93–99 odd    |
+| 3   | 175 | 1–73 eoo  | 89–95 odd    |
+| 3   | 185 | 1–49 eoo  | 61–69 odd    |
+| 3   | 190 | 1–53 eoo  | 65–66, 69    |
+| 3   | 197 | 1–109 eoo | 3–111 eoo    |
+
+</div>
+
+
 # Geometry
 
 <div align="center" style="width:max-content;" markdown="1">
