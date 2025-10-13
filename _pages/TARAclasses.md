@@ -57,6 +57,43 @@ author_profile: true
 
 # Geometry
 
+<div style="display:flex; gap:40px; justify-content:center;">
+
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch1 | sec    | pg |  homework                       |
+| --  | ------ | ---| ------------------------------- |
+| 1   | 1      | 8  | 3-16, 17-24 odd, 27-34          |
+| 1   | 2      | 16 | 3-8, 15-22                      |
+| 1   | 3      | 24 | 3-30 odd                        |
+| 1   | 4      | 34 | 3-6, 7, 18, 19, 22, 23          |
+| 1   | 5      | 43 | 15, 16, 31, 32, 33-40 odd       |
+| 1   | 6      | 52 | 3-18 odd                        |
+| 1   | review | 56 | 7, 8, 10, 11, 14, 16, 17, 19-22 |
+
+</div>
+
+<div align="center" style="width:max-content;" markdown="1">
+| ch2 | sec    | pg  |  homework         |
+| --  | ------ | --- | ----------------- |
+| 2   | 1      | 71  | 3-33 odd          |
+| 2   | 2      | 80  | 9-16, 29-30, 40ab |
+| 2   | 3      | 87  | 5-12, 27-28       |
+| 2   | 4      | 96  | 3-23 odd          |
+| 2   | 5      | 103 | 3-13 odd          |
+| 2   | 6      | 111 | 3-6, 11, 18-19    |
+| 2   | 6      | 111 | 20-24             |
+| 2   | review | 116 | 1-25eoo           |
+
+</div>
+
+</div>
+
+
+
+
+
+
 <div align="center" style="width:max-content;" markdown="1">
   
 | ch1 | sec    | pg |  homework                       |
