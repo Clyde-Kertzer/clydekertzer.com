@@ -51,6 +51,10 @@ author_profile: true
 </div>
 
 
+
+
+
+
 # Geometry
 
 <div align="center" style="width:max-content;" markdown="1">
@@ -81,6 +85,23 @@ author_profile: true
 | 2   | review | 116 | 1-25eoo           |
 
 </div>
+
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch3 | pg  | homework                           |
+| --- | --- | ---------------------------------- |
+| 3   | 129 | 4–18 even, 25–28                   |
+| 3   | 135 | 4–12 even, 15–16, 21–22            |
+| 3   | 142 | 4–16 eoe, 24, 33–34                |
+| 3   | 152 | 4–5, 10, 13–20                     |
+| 3   | 160 | 4–24 even, 30, 33                  |
+| 3   | 164 | 1–4, 8–9, 12–13, 16–17, 18–26 even |
+
+</div>
+
+
+
+
 
 
 
