@@ -160,6 +160,14 @@ author_profile: true
 
 </div>
 
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch6      | pg  | homework                        |
+| -------- | --- | ------------------------------- |
+| 6.1      |    | 2-22even, 38                     |
+
+</div>
+
 
 
 
