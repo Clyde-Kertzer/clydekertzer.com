@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Conferences
+
+* <a href="https://today.coloradocollege.edu/events/9543">PPRUMC 2026</a>: Colorado Springs, CO - Feb 21, 2026
+  * I gave a [talk](/files/CTNTPres.pdf) on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a>
 * <a href="https://ctnt-summer.math.uconn.edu/conference-24/">CTNT 2024</a>: UConn, CT - Jun 14-16, 2024
   * I gave a [talk](/files/CTNTPres.pdf) on the <a href="https://clydekertzer.com/papers/">local-global conjecture</a>
 * <a href="https://math.colorado.edu/seminars/?date=2024-04-23">CU Topology Day</a>: Boulder, CO - Apr 23, 2024
