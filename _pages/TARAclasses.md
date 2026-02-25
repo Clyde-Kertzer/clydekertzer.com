@@ -168,6 +168,20 @@ author_profile: true
 
 </div>
 
+</div>
+
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch8    | homework                      |
+| ------ | ----------------------------- |
+| 8.1    | 2–18, 21–26, 32, 41      |
+| 8.2    | 3–18, 23–26, 31, 32           |
+| 8.3    | 4–18 even, 21–26, 32          |
+| 8.4    | 4–22 even, 30                 |
+| 8.rev  | 2–14 even                     |
+
+</div>
+
 
 
 
