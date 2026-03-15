@@ -182,6 +182,22 @@ author_profile: true
 
 </div>
 
+<div align="center" style="width:max-content;" markdown="1">
+  
+| ch9      | pg  | homework                      |
+| -------- | --- | ----------------------------- |
+| 9.1      |     | 4–10 even, 16–28 even, 32–34  |              
+| 9.2      |     | 3–10, 13–16                   |              
+| 9.3      |     | 4–10 even, 20–26 even, 32, 34 |             
+| 9.4      |     | 4–10, 13, 14, 26              |             
+| 9.5      |     | 4–22 even, 39                 |              
+| 9.6      |     | 3–6, 8–18 even, 27, 28        |             
+| 9.7      |     | 10–24 even                    |             
+| 9.review |     | 2–46 even                     |             
+| test     |     | Tuesday, Mar 17               |
+
+</div>
+
 
 
 
